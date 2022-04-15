@@ -1,0 +1,23 @@
+.divider{
+    display: block;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); 
+}
+*{
+    /* background-color: rgb(255, 250, 234); */
+}
+.container{
+    justify-content: center;
+    /* display: flex; */
+    /* margin-left: 150px; */
+    /* text-align: center; */
+    /* align-items: center; */
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    width: 120px;
+}
+
